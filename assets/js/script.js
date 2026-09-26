@@ -3,8 +3,71 @@ console.log("Connected!");
    1. QUESTIONS DATA
    ============================================ */
 const questions = [
-  { question: "...", answers: ["A", "B", "C", "D"], correct: 0 },
-  // ...10 total
+  {
+    question: "Which keyword declares a variable that cannot be reassigned?",
+    answers: ["var", "let", "const", "static"],
+    correct: 2,
+  },
+  {
+    question: "What does 'DOM' stand for?",
+    answers: [
+      "Document Object Model",
+      "Data Output Method",
+      "Digital Ordinance Mapping",
+      "Dynamic Object Management",
+    ],
+    correct: 0,
+  },
+  {
+    question: "Which symbol is used for strict equality comparison?",
+    answers: ["=", "==", "===", "!="],
+    correct: 2,
+  },
+  {
+    question: "What will 'typeof []' return?",
+    answers: ["array", "object", "list", "undefined"],
+    correct: 1,
+  },
+  {
+    question: "Which method adds an element to the end of an array?",
+    answers: ["push()", "pop()", "shift()", "unshift()"],
+    correct: 0,
+  },
+  {
+    question: "What is the result of '2' + 2 in JavaScript?",
+    answers: ["4", "'22'", "NaN", "Error"],
+    correct: 1,
+  },
+  {
+    question: "Which of these is NOT a JavaScript data type?",
+    answers: ["boolean", "number", "float", "string"],
+    correct: 2,
+  },
+  {
+    question: "What does JSON stand for?",
+    answers: [
+      "JavaScript Object Notation",
+      "Java Standard Output Network",
+      "JavaScript Online Notation",
+      "Java Source Object Name",
+    ],
+    correct: 0,
+  },
+  {
+    question: "Which method converts a JSON string into a JavaScript object?",
+    answers: [
+      "JSON.stringify()",
+      "JSON.parse()",
+      "JSON.toObject()",
+      "JSON.decode()",
+    ],
+    correct: 1,
+  },
+  {
+    question: "What will 'console.log(typeof null)' output?",
+    answers: ["null", "object", "undefined", "boolean"],
+    correct: 1,
+  },
 ];
 
 /* ============================================
