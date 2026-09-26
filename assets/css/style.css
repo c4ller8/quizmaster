@@ -1,3 +1,13 @@
 body {
   background: greenyellow;
 }
+/* ===== 1. RESET & BASE ===== */
+/* ===== 2. LAYOUT ===== */
+/* ===== 3. TYPOGRAPHY ===== */
+/* ===== 4. BUTTONS ===== */
+/* ===== 5. FEEDBACK STATES ===== */
+/* ===== 6. UTILITIES (.hidden) ===== */
+.hidden { display: none; }
+/* ===== 7. MEDIA QUERIES ===== */
+max-width: 480px
+max-width: 768px
