@@ -60,7 +60,8 @@ const questions = [
     correct: 1,
   },
   {
-    question: "What is the correct way to write a comment in JavaScript?",
+    question:
+      "What's the most quick way to write a single-line comment in JavaScript?",
     answers: [
       "<!-- comment -->",
       "// comment",
