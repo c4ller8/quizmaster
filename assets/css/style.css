@@ -15,7 +15,7 @@ html {
 }
 
 body {
-  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-family: "Inter", "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   line-height: 1.6;
   color: #1a1a1a;
   background-color: #eef2f7;
@@ -62,6 +62,7 @@ footer {
 h1 {
   font-size: 1.75rem;
   letter-spacing: 0.05em;
+  font-family: "Poppins", "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
 
 h2 {
@@ -69,6 +70,7 @@ h2 {
   color: #481f5f;
   margin-bottom: 1rem;
   line-height: 1.3;
+  font-family: "Poppins", "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
 
 p {
@@ -91,7 +93,7 @@ button {
 }
 
 button:hover {
-  background-color: #481f5f;
+  background-color: #227344;
 }
 
 button:focus-visible {
@@ -147,16 +149,11 @@ input[type="text"] {
 input[type="text"]:focus {
   outline: none;
   border-color: #481f5f;
-  box-shadow: 0 0 0 3px rgba(31, 58, 95, 0.2);
-}
-
-/* ===== 7. UTILITIES (.hidden) ===== */
-.hidden {
-  display: none;
+  box-shadow: 0 0 0 3px rgba(72, 31, 95, 0.2);
 }
 
 /* ============================================
-   8. FEEDBACK STATES
+   7. FEEDBACK STATES
    ============================================ */
 .correct {
   background-color: #1b7f3b !important;
@@ -193,7 +190,7 @@ input[type="text"]:focus {
 }
 
 /* ============================================
-   9. STATUS DISPLAYS (progress + score)
+   8. STATUS DISPLAYS (progress + score)
    ============================================ */
 #progress,
 #score-display {
@@ -223,7 +220,7 @@ input[type="text"]:focus {
   margin-bottom: 1.25rem;
 }
 
-/* ===== 10. MEDIA QUERIES
+/* ===== 9. MEDIA QUERIES
    ============================================ */
 
 /* Tablet and below */

@@ -70,7 +70,7 @@ Steps: Settings → Pages → Source: main branch → Save.
 - [Code source / tutorial] — link
 - Icons from [https://favicon.io/emoji-favicons/joystick
   goo]
-- Fonts from [https://fonts.google.com/]
+- Fonts: [Poppins](https://fonts.google.com/specimen/Poppins) and [Inter](https://fonts.google.com/specimen/Inter) via Google Fonts (SIL Open Font License).
 
 ## Technologies Used
 
