@@ -88,7 +88,7 @@ Clicking the correct answer highlights it in green, locks the other buttons, dis
 
 Clicking a wrong answer highlights it in red, reveals the correct answer in green, and shows a message with the right answer. The score does not increase.
 
-![Incorrect answer highlighted in red with correct answer shown](assets/images/quiz_screen_02q1_incorrect_answer_feedback.png)
+![Incorrect answer highlighted in red with correct answer shown](assets/images/quiz_screen_02q2_incorrect_answer_feedback.png)
 
 **Results screen**
 
