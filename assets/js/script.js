@@ -258,3 +258,7 @@ usernameInput.addEventListener("keydown", function (event) {
     startQuiz();
   }
 });
+
+usernameInput.addEventListener("input", function () {
+  startError.textContent = "";
+});
