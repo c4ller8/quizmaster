@@ -60,6 +60,18 @@ Clear the Console filter. No code change required.
 
 Severity: None — developer tooling / investigation artifact.
 
+3.HTML W3c Validator Error: Bad value assets/images/favicon_io (1)/favicon.ico for attribute href on element link: Illegal character in path segment. Space is not allowed.
+
+From line 19, column 5; to line 19, column 69
+
+ss">↩↩    <link rel="icon" href="assets/images/favicon_io (1)/favicon.ico">↩</hea
+
+4.HTML W3c Validator Warning: Empty heading.
+
+From line 41, column 13; to line 41, column 35
+
+          <h2 id="question-text"></h2>↩
+
 ## Deployment
 
 Deployed via GitHub Pages.
